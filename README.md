@@ -29,9 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ping&" alt="akash-ping" /></p>
 
-### ✍️ 
+ 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 😂 Random 
+### 😂 For your laugh
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
