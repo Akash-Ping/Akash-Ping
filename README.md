@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash ping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash ping" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash ping" height="30" width="40" /></a>
 <a href="https://instagram.com/akashdoesnotcare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashdoesnotcare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash_e305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_e305" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashping189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashping189" height="30" width="40" /></a>
