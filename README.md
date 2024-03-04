@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-ping&show_icons=true&theme=tokyonight&title_color=70a5fd&text_color=38bdae&hide_border=true&locale=en&layout=compact" alt="akash-ping" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-ping&show_icons=true&theme=tokyonight&title_color=70a5fd&text_color=38bdae&hide_border=true&cache_seconds=1800&locale=en" alt="akash-ping" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-ping&show_icons=true&theme=tokyonight&title_color=70a5fd&text_color=38bdae&hide_border=true&cache_seconds=1800&locale=en" alt="akash-ping" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ping&show_icons=true&theme=tokyonight&title_color=70a5fd&text_color=38bdae&hide_border=true&cache_seconds=1800&locale=en" alt="akash-ping" /></p>
 
