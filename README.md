@@ -1,4 +1,4 @@
-![MasterHead][(https://github.com/Akash-Ping/Akash-Ping/blob/main/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif)
+![MasterHead][(https://github.com/Akash-Ping/Akash-Ping/blob/main/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif)]
 <h1 align="center">Hi 👋, I'm Akash Ping</h1>
 <h3 align="center">A passionate Developer and Learner</h3>
 
