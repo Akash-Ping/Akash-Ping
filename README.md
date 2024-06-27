@@ -32,6 +32,6 @@
  
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 😂 For your laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 For your laugh
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
